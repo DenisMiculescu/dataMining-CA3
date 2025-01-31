@@ -4,7 +4,7 @@
 This project is part of an academic assignment analyzing factors that influence legal and illegal drug consumption. The dataset, sourced from the ICLSR site at the University of Michigan, includes demographic and behavioral factors that may predict drug use.
 
 ## Dataset
-- Source: [ICPSR - Drug Consumption Study](https://www.icpsr.umich.edu/web/ICPSR/studies/36536)!
+- Source: [ICPSR - Drug Consumption Study](https://www.icpsr.umich.edu/web/ICPSR/studies/36536)
 - File Used: `DrugConsumption.csv`
 - Features: Contains demographic, psychological, and behavioral factors related to drug use.
 
